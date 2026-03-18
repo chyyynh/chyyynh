@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-[newsence](https://www.newsence.xyz/) - a Pinterest-like app for saving links and ideas, and remix them later.
+[newsence](https://www.newsence.app/) - a pinterest-like article viewer app for saving and connecting everything.
 
 <!--
 **chyyynh/chyyynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
