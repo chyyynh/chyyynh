@@ -2,8 +2,8 @@
 
 ## Current Projects
 
-[commonplot](https://www.commonplot.co/) - aims to become an encyclopedia and a place to write, for one person and even a whole community.
-[Instant](https://github.com/chyyynh/instant) - live translation app for mac.
+- [commonplot](https://www.commonplot.co/) - aims to become an encyclopedia and a place to write, for one person and even a whole community.
+- [Instant](https://github.com/chyyynh/instant) - live translation app for mac.
 
 
 <!--
