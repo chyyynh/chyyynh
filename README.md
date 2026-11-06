@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-[newsence](https://www.newsence.app/) - a pinterest-like article viewer app for saving and connecting everything.
+[commonplot](https://www.commonplot.co/) - aims to become an encyclopedia and a place to write, for one person and even a whole community.
 
 <!--
 **chyyynh/chyyynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
